@@ -2,7 +2,7 @@
 
 ## Fundementals
 - **Security, Compliance & Identity**
-  - SC-900
+  - SC-900 (Planned 28-03-2025)
 
 ## Associate
 - **Azure Security Engineer Associate**
