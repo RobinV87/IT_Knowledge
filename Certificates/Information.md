@@ -1,6 +1,6 @@
 # Microsoft Security
 
-### Fundementals
+### <u>Fundementals</u>
 - **Security, Compliance & Identity**
 - SC-900
 
