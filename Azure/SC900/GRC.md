@@ -1,0 +1,21 @@
+# GRC
+
+- Governance
+  - System of rules, practices and processes to direct and control activities.
+- Risk
+  - process of indentifying, asdsessing and responding to threats or events.
+  - From external and internal sources
+    - External risks can come from political and economic forces.
+    - Internal risks come from within, leaks of sensative data, intellectual property theft, fraud and insider trading.
+- Compliance
+- - refers to the country/region, state or federal laws or ewven multi-national regulations that an organisation must follow.
+  - Compliance is not the same as security, but security should always be considered whiule building an complaince plan.
+    - Data residencey
+      - Data residency regulations govern the physical locations where data can be stored
+      - How and when it can be transfered, processesd and accessed internationally.
+    - Data Sovereignty
+      - The concept that data is subject to laws and regulations of the country/region in which it is collected, held or processed.
+      - This adds a layer of complexity when it comes to compliance.
+    - Data Privacy
+      - Transparancy about the collection, processing, use and sharing of personal data are fundemental principles of privacy laws and regulations.
+      - 
