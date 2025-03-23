@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Training Roadmap (Azure + Red Team Edition)
 
-Built for: **Staying in the Azure ecosystem** while developing **Red Team skills under the radar**. Designed to position you as a future **Purple Team specialist**.
+Built for: **Staying in the Azure ecosystem** while developing **Red Team skills under the radar**. Designed to position you as a future **Purple Team specialist** and help prepare for **relocation to Canada** with your family.
 
 ---
 
@@ -60,6 +60,33 @@ Built for: **Staying in the Azure ecosystem** while developing **Red Team skills
 
 ---
 
+## 🍁 Canada Immigration Enhancement Plan
+> **Goal:** Align roadmap with Canadian skilled worker pathways and improve migration eligibility.
+
+### 📋 Target: Express Entry / BC PNP (British Columbia Provincial Nominee Program)
+- Cybersecurity Specialist (NOC 21220)
+- Social Support Worker (Wife – NOC 42201/42202)
+
+### 🧳 Milestones to Increase Canadian Immigration Points
+- ✅ AZ-900, SC-900 = foundational credibility
+- ✅ SC-200 = strong proof of in-demand skill
+- ✅ eJPT (optional) = Red Team bonus
+- 📚 **Prepare for IELTS General** (CLB 9+ score target)
+- 🌐 **Build GitHub + LinkedIn presence** with lab documentation and Red Team insights
+- 📍 **Target remote-friendly or BC-based employers** (especially smaller towns like Invermere)
+
+### 🏡 Cost of Living (Invermere, BC)
+- Family budget: ~€2,500/month
+- Phase 3+ salaries in Canada = **€4,000 – €5,500/month net**
+- Live comfortably on one income; two-income household = very stable
+
+### 🔄 Timeline Estimate (If consistent)
+- Phase 3 completion = within 6 months
+- Job hunting + IELTS + PNP/Express Entry = 12–18 months
+- **Target move window: 12–24 months**
+
+---
+
 ## 🧭 Ongoing: Learn, Break, Document
 
 - Keep a **Red Team Journal** in Notion/Obsidian/Markdown:
@@ -83,4 +110,4 @@ Built for: **Staying in the Azure ecosystem** while developing **Red Team skills
 
 ---
 
-**Stay sharp. Stay ambitious. The future Purple Team weapon is in the making.**
+**Stay sharp. Stay ambitious. The future Purple Team weapon is in the making—and Canada might just be the battlefield.**
