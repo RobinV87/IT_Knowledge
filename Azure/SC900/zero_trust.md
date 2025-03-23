@@ -1,0 +1,59 @@
+# Zero Trust Principles
+
+---
+
+- Verify Explicity
+  - Authenticate and authorize based on data points
+    - User Identity
+    - Location
+    - Device
+    - Service
+    - Workload
+    - Data Classification
+    - Anomalies
+  - Least Priviliged Access
+    - Limit user access
+      - Just in Time (JIT)
+      - Just enough access (JEA)
+      - Risk-based Adaptive Policies
+      - Data protection
+  - Assume Breach
+    - Segment Acces by:
+      - Network
+      - Devices
+      - Application
+    - Use encryption to protect data
+    - Use Analytics to get visibility
+    - Detect Threats
+    - IMprove security
+
+---
+
+- Six Foundational Pillars
+  - In a Zero Trust model, all elements work together to provide end-to-end security.
+  - The six elements are:
+    - Identities
+      - Users
+      - Services
+      - Devices
+        - Follow least privilege access principles.
+    - Devices
+      - Create a large attack surface
+      - Data flow from devices to on-premises workloads and the cloud
+      - Monitoring devices for health and compliance is an important aspect of security.
+    - Applications
+      - The way Data is consumed
+      - Discorvering all applications being used
+        - Sometimes called Shadow IT
+        - Not all applications are managed centrally
+      - Pillar inclused manageing Permissions and access
+    - Data
+      - should be classified, labeled and encrypted based on attributes
+      - Security efforts are about protecting data when it leaves devices, applications, infrastructure and networks
+    - Infrastructure
+      - Wheter on-premise or cloud based, it is a threat vector.
+        - to improve security you assess for version, configration and JIT access.
+    - Networks
+      - Should be segmented, including deeper in-network micro segentation.
+      - Real-time threat protection
+      - End-to-end encryption, monitroing and analystics shoudl be employed.
