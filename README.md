@@ -13,7 +13,7 @@ Turn calls, chaos, and customer crises into XP, levels, and bragging rights. �
 | **Class**      | Support Knight                        |
 | **Spec**       | Network Whisperer |
 | **Level**      | 1                                     |
-| **Total XP**   | 0 XP                                  |
+| **Total XP**   | 10 XP                                  |
 | **Next Level** | 100 XP                                |
 
 ---
@@ -55,7 +55,7 @@ Push for glory with these side quests:
 - [ ] **Document a weird issue** (+15 XP)  
 - [ ] **Teach a teammate something** (+25 XP)  
 - [ ] **Create a new template or macro** (+25 XP)  
-- [ ] **Make a user genuinely say “thanks”** (+10 XP)  
+- [x] **Make a user genuinely say “thanks”** (+10 XP)  
 - [ ] **Handle a pressure call calmly** (+30 XP)
 
 ---
