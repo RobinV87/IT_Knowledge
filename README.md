@@ -9,9 +9,9 @@ Turn calls, chaos, and customer crises into XP, levels, and bragging rights. ðŸ’
 
 | Field          | Value                                 |
 |----------------|---------------------------------------|
-| **Name**       | INSERT NAME OR ALIAS                  |
+| **Name**       | RobinV                |
 | **Class**      | Support Knight                        |
-| **Spec**       | Printer Slayer / VPN Monk / Outlook Whisperer |
+| **Spec**       | Network Whisperer |
 | **Level**      | 1                                     |
 | **Total XP**   | 0 XP                                  |
 | **Next Level** | 100 XP                                |
